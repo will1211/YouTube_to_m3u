@@ -10,12 +10,6 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 寰宇新闻 | 台湾 | http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png |	
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-TVBS新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/tvbs.png |	
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-
-三立新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/SETNews.png |	
-https://www.youtube.com/watch?v=FoBfXvlOR6I
-
 台视新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/tsxw.png |	
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
@@ -24,3 +18,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 东森财经新闻 | 台湾 | http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png |	
 https://www.youtube.com/watch?v=WHEPzbFA3hw
+
+TVBS新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/tvbs.png |	
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+三立新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/SETNews.png |	
+https://www.youtube.com/watch?v=FoBfXvlOR6I
