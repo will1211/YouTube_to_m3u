@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 三立新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/SETNews.png |	
 https://www.youtube.com/watch?v=FoBfXvlOR6I
+
+Peaceful Instrumental Music | 音乐 | https://raw.githubusercontent.com/will1211/netflix/main/YouTube.png |
+https://www.youtube.com/watch?v=IXyyqxGar1Q&ab_channel=TimJanis
