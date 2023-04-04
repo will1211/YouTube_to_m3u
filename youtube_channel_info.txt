@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 中天新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/ztxw.png |	
-https://www.youtube.com/watch?v=OcvOEPFHwdw
+https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
 
 中视新闻 | 台湾 | https://raw.githubusercontent.com/will1211/netflix/main/zsxw.png |	
 https://www.youtube.com/watch?v=TCnaIE_SAtM	
